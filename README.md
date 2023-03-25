@@ -62,9 +62,10 @@ Start the server by running the command npm start
 
 ## Demo
 
-[E-Commerce Walkthrough.webm](https://user-images.githubusercontent.com/106099150/226149096-284a0723-5a35-4530-b334-6178a815d4d2.webm)
 
 
+
+[Untitled_ Mar 18, 2023 6_40 PM.webm](https://user-images.githubusercontent.com/106099150/227735896-1c655431-06cf-4497-8bf5-4deb5609ea00.webm)
 
 
 
